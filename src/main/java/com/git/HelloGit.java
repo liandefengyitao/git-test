@@ -3,5 +3,7 @@ package com.git;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("Hello Git!!!");
+        System.out.println("Only hot-fix can see!");
+        System.out.println("Continue to commit");
     }
 }
