@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("where will be wrong.");
         System.out.println("Continue to commit");
         System.out.println("前一条会发生冲突！！！");
+        System.out.println("pull test！！！");
     }
 }
